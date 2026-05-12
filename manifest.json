@@ -1,15 +1,5 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-12T11:52:52.311Z",
-  "skills": [
-    {
-      "skillKey": "probe-skill",
-      "category": "fake-cat",
-      "displayName": "探针牛马（自动清理）",
-      "description": "跑 awesome-skills-repo 联调脚本生成的测试条目，仅用于验证 PAT 写入",
-      "version": "0.0.1",
-      "icon": "🧪",
-      "path": "skills/fake-cat/probe-skill"
-    }
-  ]
+  "generatedAt": "2026-05-12T11:53:00.974Z",
+  "skills": []
 }
