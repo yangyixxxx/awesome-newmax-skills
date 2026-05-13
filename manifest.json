@@ -1,5 +1,20 @@
 {
-  "version": 1,
-  "generatedAt": "2026-05-12T11:53:00.974Z",
-  "skills": []
+  "generatedAt": "2026-05-13T04:25:36.558Z",
+  "total": 1,
+  "skills": [
+    {
+      "skillKey": "probe-skill",
+      "displayName": "探针牛马（自动清理）",
+      "description": "跑 awesome-skills-repo 联调脚本生成的测试条目，仅用于验证 PAT 写入",
+      "category": "fake-cat",
+      "icon": "🧪",
+      "version": "0.0.1",
+      "author": "",
+      "tags": [],
+      "files": [
+        "SKILL.md",
+        "references/note.md"
+      ]
+    }
+  ]
 }
